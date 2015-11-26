@@ -1,0 +1,28 @@
+name: "Mike's House"
+favicon: null
+layout_spectrum: 0.22741693444550037
+typography_spectrum: 0.06679642223753035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1965943737886846
+  lightness: 0.10631758417002857
+  saturation: 0.6206017776858062
+  rhythmicContrast: 0.5745871455874294
+purpose: []
